@@ -1,19 +1,20 @@
-body {
-  max-width: 1000px;
-  margin: 0 auto;
-  background-color: darkred;
-  font-family: sans-serif;
-}
-
 img {
     background-color: black;
+}
+
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: darkred;
+
+    font-family: sans-serif;
 }
 
 a {
     color: #1793d1;
     text-decoration: overline;
   }
-  
+
   a:hover {
     color: #333333;
   }

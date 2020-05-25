@@ -1,10 +1,10 @@
-@import url('http://fonts.googleapis.com/css?family=Montserrat:400,700');
+ @import url('http://fonts.googleapis.com/css?family=Montserrat:400,700');
 
 body {
   color: #555;
   margin: 0;
 
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', consolas;
 }
 
 .container {
@@ -13,7 +13,8 @@ body {
 }
 
 #header {
-  background-color: #1abc9c;
+  /* background-color: #1abc9c; */
+  background-color: #106692;
   height: 150px;
   line-height: 150px;
 }
@@ -27,7 +28,7 @@ body {
 }
 
 #header a:hover {
-  color: #222;
+  color: #333333;
 }
 
 #header-title {
@@ -50,7 +51,8 @@ body {
 }
 
 #footer {
-  background-color: #2f2f2f;
+  /* background-color: #2f2f2f; */
+  background-color: #333333;
   padding: 50px 0;
 }
 
@@ -71,7 +73,8 @@ body {
 }
 
 a {
-  color: #1abc9c;
+  /* color: #1abc9c; */
+  color: #1793d1;
   text-decoration: none;
 }
 
@@ -130,4 +133,10 @@ p {
 
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
+}
+
+.column img {
+  width: 100px;
+  height: 100px;
+  margin-left: 150px
 }
