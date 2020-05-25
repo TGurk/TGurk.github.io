@@ -79,10 +79,16 @@ a:hover {
   color: #F6A623;
 }
 
-.post, .about {
+.post {
   max-width: 800px;
   margin:  auto;
   padding: 60px 0;
+}
+
+.about {
+ max-width: 800px;
+ margin:  auto;
+ padding: 100px 0;
 }
 
 .post-author img {
