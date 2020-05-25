@@ -206,8 +206,13 @@ p {
   text-align: center;
 }
 
-.post-author img,
+.post-author img {
+  border-radius: 50%;
+}
+
 .about-author img {
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
 }
 
