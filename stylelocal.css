@@ -1,11 +1,17 @@
-img {
-    background-color: black;
-}
+
+@import url('http://fonts.googleapis.com/css?family=Montserrat:400,700');
 
 body {
-    max-width: 1000px;
-    margin: 0 auto;
-    background-color: darkred;
+  color: #555;
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: darkred;
+
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    background-color: black;
 }
 
 a {
