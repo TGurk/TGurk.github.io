@@ -1,1 +1,1 @@
-#[tgurk.github.io](https://tgurk.github.io/)
+[tgurk.github.io](https://tgurk.github.io/)
